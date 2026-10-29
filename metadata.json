@@ -1,0 +1,6 @@
+{
+  "name": "Vellum PDF Studio",
+  "description": "High-speed PDF viewer, annotator, multi-format converter (Word, JPG, PNG, TXT, HTML), watermark remover, Google Drive sync, and free in-browser OCR & smart document assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
